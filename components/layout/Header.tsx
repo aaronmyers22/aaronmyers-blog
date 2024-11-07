@@ -6,7 +6,7 @@ const Header = () => {
       <div className="container mx-auto px-4">
         <nav className="flex justify-between items-center">
           <Link href="/" className="text-2xl font-bold">
-            Aaron's Super Awesome Blog of Awesomeness
+            Aaron&apos;s Super Awesome Blog of Awesomeness
           </Link>
           <div>
             <Link href="/posts" className="ml-4">
